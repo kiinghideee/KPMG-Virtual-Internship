@@ -12,4 +12,4 @@ The client provided KPMG with 3 datasets:
     Customer Addresses
     Transactions data in the past 3 months
     New Customers
-Sprocket Central wants us to analyze these large dataset, submit insights and also recommend which of these 1000 new customers should be targeted to drive the most value for the organisation.
+I've been given these dataset to clean, analyze, provide insights and also recommend which of these 1000 new customers should be targeted to drive the most value for the organisation.
