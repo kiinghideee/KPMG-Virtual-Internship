@@ -2,7 +2,7 @@
 
 # Introduction
 
-Sprocket Central Pty Ltd is a long-standing KPMG client whom specialises in high-quality bikes and accessible cycling accessories to riders. Their marketing team is looking to boost business by analysing their existing customer dataset to determine customer trends and behaviour.
+Sprocket Central Pty Ltd is a long-standing KPMG client whom specialises in high-quality bikes and accessible cycling accessories to riders. Their marketing team is looking to boost business by analyzing their existing customer dataset to determine customer trends and behavior.
 
 # Problem Statement
 Sprocket Central Pty Ltd needs help with its customer and transactions data. The organisation has a large dataset relating to its customers, but their team is unsure how to effectively analyse it to help optimise its marketing strategy. 
@@ -16,7 +16,7 @@ The client provided KPMG with 3 datasets:
 # Tasks
 1. I was tasked to do a data quality assessment for Sprocket Central Ltd. Upon reviewing the data, I identified some data quality issues and proposed mitigations in my drafted email to the organization.
  
-2. I was also tasked to analyze, provide insights and also recommend which of these 1000 new customers should be targeted to drive the most value for the organisation.
+2. I was also tasked to analyze, provide insights and also recommend which of these 1000 new customers should be targeted to drive the most value for the organization.
 
 
 # Tools Used
